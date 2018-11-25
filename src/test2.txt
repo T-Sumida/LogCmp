@@ -1,0 +1,11 @@
+[Mar 10 01:45:50] siegfried syslog_sample[743]: log_test:LOG_EMERG
+
+Broadcast Message from root@siegfried.local
+(no tty) at 1:45 JST...
+
+[Mar 10 01:45:50] siegfried syslog_sample[743]: log_test:LOG_EMERG4
+
+[Mar 10 01:45:50] siegfried syslog_sample[743]: log_test:LOG_ALERT
+[Mar 10 01:45:50] siegfried syslog_sample[743]: log_test:LOG_CRIT3
+[Mar 10 01:45:50] siegfried syslog_sample[743]: log_test:LOG_WARNING
+[Mar 10 01:45:50] siegfried syslog_sample[743]: log_test:LOG_NOTICE2
